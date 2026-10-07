@@ -2,14 +2,13 @@
 
 Code, DFT datasets, and Na/vacancy ordering library behind the manuscript
 
-> *Ordering-resolved DFT map of single- and mixed-transition-metal Na layered oxides
-> (NaxTMO2 and NaxTM0.5TM'0.5O2, TM = Ti, Mn, Fe, Co, Ni) in the O3 / P3 / O1 stacking family.*
+> *Decoding Composition–Structure–Performance Relations in Sodium Layered Oxide Positive Electrode Materials*
 
-Everything needed to **regenerate every figure and number in the paper from the tabulated DFT
-results** is here. Raw VASP outputs (≈140 GB) are not included; the relaxed structures, energies,
+Everything needed to regenerate every figure and number in the paper from the tabulated DFT
+results is here. Raw VASP outputs (≈140 GB) are not included; the relaxed structures, energies,
 magnetic moments, and derived quantities are tabulated in `data/`.
 
-This repository is the "essential" subset split out of a larger working repository
+This repository is the essential subset split out of a larger working repository
 (`project_NaLayered_MLIP`) that also contains MACE fine-tuning, phonon, and Na-diffusion work.
 Nothing from that MLIP side is included here.
 
@@ -25,7 +24,7 @@ project_NLO_DFT/
 │   ├── O1_orderings/, O3_orderings/, P3_orderings/   Na/vacancy ordering library (POSCAR, 41 structures)
 │   ├── experiments/         digitized experimental voltage curves (CSV) + refined CIFs
 │   ├── mace_screening/      stacking candidates + MACE pre-screening results that fed DFT
-│   ├── singleTM_*.csv/json  DFT results, 5+2 single-TM systems (287 runs)
+│   ├── singleTM_*.csv/json  DFT results, 7 single-TM systems (287 runs)
 │   └── doubleTM_*.csv/json  DFT results, 10 mixed-TM systems (820 runs)
 ├── figures/                 ← figure scripts and the final PDFs       → figures/README.md
 │   ├── codes/               one script per figure (Figure2.py, Figure3.py, …)
