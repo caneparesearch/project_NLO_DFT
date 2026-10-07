@@ -1,0 +1,988 @@
+{
+  "phase": "P3_orderings",
+  "ordering": "JLK_delta_w_vac",
+  "tm_pair": "Mn_Ni",
+  "elec_dir": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/P3_orderings/JLK_delta_w_vac/Mn_Ni/elec_0",
+  "n_groups_discovered": 108,
+  "n_groups_evaluated_ok": 108,
+  "model": "/home/ychoi35/project_NaLayered_MLIP/data/mace-omat-0-medium.model",
+  "best_group": "group_17",
+  "best_energy_eV": -932.1301372992807,
+  "best_energy_per_atom_eV": -3.452333841849188,
+  "best_poscar": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/P3_orderings/JLK_delta_w_vac/Mn_Ni/elec_0/POSCAR_TMstaging",
+  "runtime_s": 55.66016101837158,
+  "groups": [
+    {
+      "group": "group_0",
+      "group_dir": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/P3_orderings/JLK_delta_w_vac/Mn_Ni/elec_0/TM_staging/group_0",
+      "poscar": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/P3_orderings/JLK_delta_w_vac/Mn_Ni/elec_0/TM_staging/group_0/POSCAR",
+      "natoms": 270,
+      "energy_eV": -932.0627546023263,
+      "energy_per_atom_eV": -3.4520842763049124,
+      "status": "OK"
+    },
+    {
+      "group": "group_1",
+      "group_dir": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/P3_orderings/JLK_delta_w_vac/Mn_Ni/elec_0/TM_staging/group_1",
+      "poscar": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/P3_orderings/JLK_delta_w_vac/Mn_Ni/elec_0/TM_staging/group_1/POSCAR",
+      "natoms": 270,
+      "energy_eV": -932.1298358819565,
+      "energy_per_atom_eV": -3.452332725488728,
+      "status": "OK"
+    },
+    {
+      "group": "group_2",
+      "group_dir": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/P3_orderings/JLK_delta_w_vac/Mn_Ni/elec_0/TM_staging/group_2",
+      "poscar": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/P3_orderings/JLK_delta_w_vac/Mn_Ni/elec_0/TM_staging/group_2/POSCAR",
+      "natoms": 270,
+      "energy_eV": -932.0344899037993,
+      "energy_per_atom_eV": -3.451979592236294,
+      "status": "OK"
+    },
+    {
+      "group": "group_3",
+      "group_dir": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/P3_orderings/JLK_delta_w_vac/Mn_Ni/elec_0/TM_staging/group_3",
+      "poscar": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/P3_orderings/JLK_delta_w_vac/Mn_Ni/elec_0/TM_staging/group_3/POSCAR",
+      "natoms": 270,
+      "energy_eV": -932.1007005293436,
+      "energy_per_atom_eV": -3.4522248167753466,
+      "status": "OK"
+    },
+    {
+      "group": "group_4",
+      "group_dir": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/P3_orderings/JLK_delta_w_vac/Mn_Ni/elec_0/TM_staging/group_4",
+      "poscar": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/P3_orderings/JLK_delta_w_vac/Mn_Ni/elec_0/TM_staging/group_4/POSCAR",
+      "natoms": 270,
+      "energy_eV": -932.0728276309196,
+      "energy_per_atom_eV": -3.452121583818221,
+      "status": "OK"
+    },
+    {
+      "group": "group_5",
+      "group_dir": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/P3_orderings/JLK_delta_w_vac/Mn_Ni/elec_0/TM_staging/group_5",
+      "poscar": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/P3_orderings/JLK_delta_w_vac/Mn_Ni/elec_0/TM_staging/group_5/POSCAR",
+      "natoms": 270,
+      "energy_eV": -932.0701086767679,
+      "energy_per_atom_eV": -3.4521115136176586,
+      "status": "OK"
+    },
+    {
+      "group": "group_6",
+      "group_dir": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/P3_orderings/JLK_delta_w_vac/Mn_Ni/elec_0/TM_staging/group_6",
+      "poscar": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/P3_orderings/JLK_delta_w_vac/Mn_Ni/elec_0/TM_staging/group_6/POSCAR",
+      "natoms": 270,
+      "energy_eV": -932.0253284790997,
+      "energy_per_atom_eV": -3.4519456610337027,
+      "status": "OK"
+    },
+    {
+      "group": "group_7",
+      "group_dir": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/P3_orderings/JLK_delta_w_vac/Mn_Ni/elec_0/TM_staging/group_7",
+      "poscar": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/P3_orderings/JLK_delta_w_vac/Mn_Ni/elec_0/TM_staging/group_7/POSCAR",
+      "natoms": 270,
+      "energy_eV": -932.0862169016459,
+      "energy_per_atom_eV": -3.4521711737097998,
+      "status": "OK"
+    },
+    {
+      "group": "group_8",
+      "group_dir": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/P3_orderings/JLK_delta_w_vac/Mn_Ni/elec_0/TM_staging/group_8",
+      "poscar": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/P3_orderings/JLK_delta_w_vac/Mn_Ni/elec_0/TM_staging/group_8/POSCAR",
+      "natoms": 270,
+      "energy_eV": -932.0249393649315,
+      "energy_per_atom_eV": -3.4519442198701165,
+      "status": "OK"
+    },
+    {
+      "group": "group_9",
+      "group_dir": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/P3_orderings/JLK_delta_w_vac/Mn_Ni/elec_0/TM_staging/group_9",
+      "poscar": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/P3_orderings/JLK_delta_w_vac/Mn_Ni/elec_0/TM_staging/group_9/POSCAR",
+      "natoms": 270,
+      "energy_eV": -932.086788194495,
+      "energy_per_atom_eV": -3.4521732896092407,
+      "status": "OK"
+    },
+    {
+      "group": "group_10",
+      "group_dir": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/P3_orderings/JLK_delta_w_vac/Mn_Ni/elec_0/TM_staging/group_10",
+      "poscar": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/P3_orderings/JLK_delta_w_vac/Mn_Ni/elec_0/TM_staging/group_10/POSCAR",
+      "natoms": 270,
+      "energy_eV": -932.067652402965,
+      "energy_per_atom_eV": -3.4521024163072775,
+      "status": "OK"
+    },
+    {
+      "group": "group_11",
+      "group_dir": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/P3_orderings/JLK_delta_w_vac/Mn_Ni/elec_0/TM_staging/group_11",
+      "poscar": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/P3_orderings/JLK_delta_w_vac/Mn_Ni/elec_0/TM_staging/group_11/POSCAR",
+      "natoms": 270,
+      "energy_eV": -932.0685548183603,
+      "energy_per_atom_eV": -3.45210575858652,
+      "status": "OK"
+    },
+    {
+      "group": "group_12",
+      "group_dir": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/P3_orderings/JLK_delta_w_vac/Mn_Ni/elec_0/TM_staging/group_12",
+      "poscar": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/P3_orderings/JLK_delta_w_vac/Mn_Ni/elec_0/TM_staging/group_12/POSCAR",
+      "natoms": 270,
+      "energy_eV": -932.0965007775617,
+      "energy_per_atom_eV": -3.4522092621391174,
+      "status": "OK"
+    },
+    {
+      "group": "group_13",
+      "group_dir": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/P3_orderings/JLK_delta_w_vac/Mn_Ni/elec_0/TM_staging/group_13",
+      "poscar": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/P3_orderings/JLK_delta_w_vac/Mn_Ni/elec_0/TM_staging/group_13/POSCAR",
+      "natoms": 270,
+      "energy_eV": -932.0586891825944,
+      "energy_per_atom_eV": -3.452069219194794,
+      "status": "OK"
+    },
+    {
+      "group": "group_14",
+      "group_dir": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/P3_orderings/JLK_delta_w_vac/Mn_Ni/elec_0/TM_staging/group_14",
+      "poscar": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/P3_orderings/JLK_delta_w_vac/Mn_Ni/elec_0/TM_staging/group_14/POSCAR",
+      "natoms": 270,
+      "energy_eV": -932.1262825451233,
+      "energy_per_atom_eV": -3.4523195649819383,
+      "status": "OK"
+    },
+    {
+      "group": "group_15",
+      "group_dir": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/P3_orderings/JLK_delta_w_vac/Mn_Ni/elec_0/TM_staging/group_15",
+      "poscar": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/P3_orderings/JLK_delta_w_vac/Mn_Ni/elec_0/TM_staging/group_15/POSCAR",
+      "natoms": 270,
+      "energy_eV": -932.0663838656778,
+      "energy_per_atom_eV": -3.452097718021029,
+      "status": "OK"
+    },
+    {
+      "group": "group_16",
+      "group_dir": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/P3_orderings/JLK_delta_w_vac/Mn_Ni/elec_0/TM_staging/group_16",
+      "poscar": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/P3_orderings/JLK_delta_w_vac/Mn_Ni/elec_0/TM_staging/group_16/POSCAR",
+      "natoms": 270,
+      "energy_eV": -932.0656745431872,
+      "energy_per_atom_eV": -3.4520950909006936,
+      "status": "OK"
+    },
+    {
+      "group": "group_17",
+      "group_dir": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/P3_orderings/JLK_delta_w_vac/Mn_Ni/elec_0/TM_staging/group_17",
+      "poscar": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/P3_orderings/JLK_delta_w_vac/Mn_Ni/elec_0/TM_staging/group_17/POSCAR",
+      "natoms": 270,
+      "energy_eV": -932.1301372992807,
+      "energy_per_atom_eV": -3.452333841849188,
+      "status": "OK"
+    },
+    {
+      "group": "group_18",
+      "group_dir": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/P3_orderings/JLK_delta_w_vac/Mn_Ni/elec_0/TM_staging/group_18",
+      "poscar": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/P3_orderings/JLK_delta_w_vac/Mn_Ni/elec_0/TM_staging/group_18/POSCAR",
+      "natoms": 270,
+      "energy_eV": -932.1212562926135,
+      "energy_per_atom_eV": -3.4523009492319017,
+      "status": "OK"
+    },
+    {
+      "group": "group_19",
+      "group_dir": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/P3_orderings/JLK_delta_w_vac/Mn_Ni/elec_0/TM_staging/group_19",
+      "poscar": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/P3_orderings/JLK_delta_w_vac/Mn_Ni/elec_0/TM_staging/group_19/POSCAR",
+      "natoms": 270,
+      "energy_eV": -932.0914327686692,
+      "energy_per_atom_eV": -3.452190491735812,
+      "status": "OK"
+    },
+    {
+      "group": "group_20",
+      "group_dir": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/P3_orderings/JLK_delta_w_vac/Mn_Ni/elec_0/TM_staging/group_20",
+      "poscar": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/P3_orderings/JLK_delta_w_vac/Mn_Ni/elec_0/TM_staging/group_20/POSCAR",
+      "natoms": 270,
+      "energy_eV": -932.0838560283973,
+      "energy_per_atom_eV": -3.452162429734805,
+      "status": "OK"
+    },
+    {
+      "group": "group_21",
+      "group_dir": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/P3_orderings/JLK_delta_w_vac/Mn_Ni/elec_0/TM_staging/group_21",
+      "poscar": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/P3_orderings/JLK_delta_w_vac/Mn_Ni/elec_0/TM_staging/group_21/POSCAR",
+      "natoms": 270,
+      "energy_eV": -932.111164984067,
+      "energy_per_atom_eV": -3.4522635740150633,
+      "status": "OK"
+    },
+    {
+      "group": "group_22",
+      "group_dir": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/P3_orderings/JLK_delta_w_vac/Mn_Ni/elec_0/TM_staging/group_22",
+      "poscar": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/P3_orderings/JLK_delta_w_vac/Mn_Ni/elec_0/TM_staging/group_22/POSCAR",
+      "natoms": 270,
+      "energy_eV": -932.0874902657051,
+      "energy_per_atom_eV": -3.452175889872982,
+      "status": "OK"
+    },
+    {
+      "group": "group_23",
+      "group_dir": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/P3_orderings/JLK_delta_w_vac/Mn_Ni/elec_0/TM_staging/group_23",
+      "poscar": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/P3_orderings/JLK_delta_w_vac/Mn_Ni/elec_0/TM_staging/group_23/POSCAR",
+      "natoms": 270,
+      "energy_eV": -932.0780313797347,
+      "energy_per_atom_eV": -3.4521408569619805,
+      "status": "OK"
+    },
+    {
+      "group": "group_24",
+      "group_dir": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/P3_orderings/JLK_delta_w_vac/Mn_Ni/elec_0/TM_staging/group_24",
+      "poscar": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/P3_orderings/JLK_delta_w_vac/Mn_Ni/elec_0/TM_staging/group_24/POSCAR",
+      "natoms": 270,
+      "energy_eV": -932.0776123763753,
+      "energy_per_atom_eV": -3.4521393050976865,
+      "status": "OK"
+    },
+    {
+      "group": "group_25",
+      "group_dir": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/P3_orderings/JLK_delta_w_vac/Mn_Ni/elec_0/TM_staging/group_25",
+      "poscar": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/P3_orderings/JLK_delta_w_vac/Mn_Ni/elec_0/TM_staging/group_25/POSCAR",
+      "natoms": 270,
+      "energy_eV": -932.0871300607187,
+      "energy_per_atom_eV": -3.4521745557804393,
+      "status": "OK"
+    },
+    {
+      "group": "group_26",
+      "group_dir": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/P3_orderings/JLK_delta_w_vac/Mn_Ni/elec_0/TM_staging/group_26",
+      "poscar": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/P3_orderings/JLK_delta_w_vac/Mn_Ni/elec_0/TM_staging/group_26/POSCAR",
+      "natoms": 270,
+      "energy_eV": -932.0807127807661,
+      "energy_per_atom_eV": -3.452150788076912,
+      "status": "OK"
+    },
+    {
+      "group": "group_27",
+      "group_dir": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/P3_orderings/JLK_delta_w_vac/Mn_Ni/elec_0/TM_staging/group_27",
+      "poscar": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/P3_orderings/JLK_delta_w_vac/Mn_Ni/elec_0/TM_staging/group_27/POSCAR",
+      "natoms": 270,
+      "energy_eV": -932.1078019490908,
+      "energy_per_atom_eV": -3.452251118329966,
+      "status": "OK"
+    },
+    {
+      "group": "group_28",
+      "group_dir": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/P3_orderings/JLK_delta_w_vac/Mn_Ni/elec_0/TM_staging/group_28",
+      "poscar": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/P3_orderings/JLK_delta_w_vac/Mn_Ni/elec_0/TM_staging/group_28/POSCAR",
+      "natoms": 270,
+      "energy_eV": -932.1170545006428,
+      "energy_per_atom_eV": -3.4522853870394177,
+      "status": "OK"
+    },
+    {
+      "group": "group_29",
+      "group_dir": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/P3_orderings/JLK_delta_w_vac/Mn_Ni/elec_0/TM_staging/group_29",
+      "poscar": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/P3_orderings/JLK_delta_w_vac/Mn_Ni/elec_0/TM_staging/group_29/POSCAR",
+      "natoms": 270,
+      "energy_eV": -932.1258314660652,
+      "energy_per_atom_eV": -3.45231789431876,
+      "status": "OK"
+    },
+    {
+      "group": "group_30",
+      "group_dir": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/P3_orderings/JLK_delta_w_vac/Mn_Ni/elec_0/TM_staging/group_30",
+      "poscar": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/P3_orderings/JLK_delta_w_vac/Mn_Ni/elec_0/TM_staging/group_30/POSCAR",
+      "natoms": 270,
+      "energy_eV": -932.0802799870432,
+      "energy_per_atom_eV": -3.452149185137197,
+      "status": "OK"
+    },
+    {
+      "group": "group_31",
+      "group_dir": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/P3_orderings/JLK_delta_w_vac/Mn_Ni/elec_0/TM_staging/group_31",
+      "poscar": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/P3_orderings/JLK_delta_w_vac/Mn_Ni/elec_0/TM_staging/group_31/POSCAR",
+      "natoms": 270,
+      "energy_eV": -932.1083390107583,
+      "energy_per_atom_eV": -3.452253107447253,
+      "status": "OK"
+    },
+    {
+      "group": "group_32",
+      "group_dir": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/P3_orderings/JLK_delta_w_vac/Mn_Ni/elec_0/TM_staging/group_32",
+      "poscar": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/P3_orderings/JLK_delta_w_vac/Mn_Ni/elec_0/TM_staging/group_32/POSCAR",
+      "natoms": 270,
+      "energy_eV": -932.0723861920856,
+      "energy_per_atom_eV": -3.452119948859576,
+      "status": "OK"
+    },
+    {
+      "group": "group_33",
+      "group_dir": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/P3_orderings/JLK_delta_w_vac/Mn_Ni/elec_0/TM_staging/group_33",
+      "poscar": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/P3_orderings/JLK_delta_w_vac/Mn_Ni/elec_0/TM_staging/group_33/POSCAR",
+      "natoms": 270,
+      "energy_eV": -932.112816462954,
+      "energy_per_atom_eV": -3.4522696906035333,
+      "status": "OK"
+    },
+    {
+      "group": "group_34",
+      "group_dir": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/P3_orderings/JLK_delta_w_vac/Mn_Ni/elec_0/TM_staging/group_34",
+      "poscar": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/P3_orderings/JLK_delta_w_vac/Mn_Ni/elec_0/TM_staging/group_34/POSCAR",
+      "natoms": 270,
+      "energy_eV": -932.085522323817,
+      "energy_per_atom_eV": -3.4521686011993222,
+      "status": "OK"
+    },
+    {
+      "group": "group_35",
+      "group_dir": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/P3_orderings/JLK_delta_w_vac/Mn_Ni/elec_0/TM_staging/group_35",
+      "poscar": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/P3_orderings/JLK_delta_w_vac/Mn_Ni/elec_0/TM_staging/group_35/POSCAR",
+      "natoms": 270,
+      "energy_eV": -932.0856546804305,
+      "energy_per_atom_eV": -3.4521690914090017,
+      "status": "OK"
+    },
+    {
+      "group": "group_36",
+      "group_dir": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/P3_orderings/JLK_delta_w_vac/Mn_Ni/elec_0/TM_staging/group_36",
+      "poscar": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/P3_orderings/JLK_delta_w_vac/Mn_Ni/elec_0/TM_staging/group_36/POSCAR",
+      "natoms": 270,
+      "energy_eV": -932.048949463199,
+      "energy_per_atom_eV": -3.4520331461599967,
+      "status": "OK"
+    },
+    {
+      "group": "group_37",
+      "group_dir": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/P3_orderings/JLK_delta_w_vac/Mn_Ni/elec_0/TM_staging/group_37",
+      "poscar": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/P3_orderings/JLK_delta_w_vac/Mn_Ni/elec_0/TM_staging/group_37/POSCAR",
+      "natoms": 270,
+      "energy_eV": -932.0867251988343,
+      "energy_per_atom_eV": -3.452173056291979,
+      "status": "OK"
+    },
+    {
+      "group": "group_38",
+      "group_dir": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/P3_orderings/JLK_delta_w_vac/Mn_Ni/elec_0/TM_staging/group_38",
+      "poscar": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/P3_orderings/JLK_delta_w_vac/Mn_Ni/elec_0/TM_staging/group_38/POSCAR",
+      "natoms": 270,
+      "energy_eV": -932.0743017317768,
+      "energy_per_atom_eV": -3.4521270434510254,
+      "status": "OK"
+    },
+    {
+      "group": "group_39",
+      "group_dir": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/P3_orderings/JLK_delta_w_vac/Mn_Ni/elec_0/TM_staging/group_39",
+      "poscar": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/P3_orderings/JLK_delta_w_vac/Mn_Ni/elec_0/TM_staging/group_39/POSCAR",
+      "natoms": 270,
+      "energy_eV": -932.0743491241765,
+      "energy_per_atom_eV": -3.4521272189784313,
+      "status": "OK"
+    },
+    {
+      "group": "group_40",
+      "group_dir": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/P3_orderings/JLK_delta_w_vac/Mn_Ni/elec_0/TM_staging/group_40",
+      "poscar": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/P3_orderings/JLK_delta_w_vac/Mn_Ni/elec_0/TM_staging/group_40/POSCAR",
+      "natoms": 270,
+      "energy_eV": -932.0486623819029,
+      "energy_per_atom_eV": -3.4520320828959368,
+      "status": "OK"
+    },
+    {
+      "group": "group_41",
+      "group_dir": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/P3_orderings/JLK_delta_w_vac/Mn_Ni/elec_0/TM_staging/group_41",
+      "poscar": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/P3_orderings/JLK_delta_w_vac/Mn_Ni/elec_0/TM_staging/group_41/POSCAR",
+      "natoms": 270,
+      "energy_eV": -932.08187638963,
+      "energy_per_atom_eV": -3.4521550977393702,
+      "status": "OK"
+    },
+    {
+      "group": "group_42",
+      "group_dir": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/P3_orderings/JLK_delta_w_vac/Mn_Ni/elec_0/TM_staging/group_42",
+      "poscar": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/P3_orderings/JLK_delta_w_vac/Mn_Ni/elec_0/TM_staging/group_42/POSCAR",
+      "natoms": 270,
+      "energy_eV": -932.0814902786249,
+      "energy_per_atom_eV": -3.4521536676986107,
+      "status": "OK"
+    },
+    {
+      "group": "group_43",
+      "group_dir": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/P3_orderings/JLK_delta_w_vac/Mn_Ni/elec_0/TM_staging/group_43",
+      "poscar": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/P3_orderings/JLK_delta_w_vac/Mn_Ni/elec_0/TM_staging/group_43/POSCAR",
+      "natoms": 270,
+      "energy_eV": -932.0721023557212,
+      "energy_per_atom_eV": -3.4521188976137824,
+      "status": "OK"
+    },
+    {
+      "group": "group_44",
+      "group_dir": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/P3_orderings/JLK_delta_w_vac/Mn_Ni/elec_0/TM_staging/group_44",
+      "poscar": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/P3_orderings/JLK_delta_w_vac/Mn_Ni/elec_0/TM_staging/group_44/POSCAR",
+      "natoms": 270,
+      "energy_eV": -932.113043728247,
+      "energy_per_atom_eV": -3.452270532326841,
+      "status": "OK"
+    },
+    {
+      "group": "group_45",
+      "group_dir": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/P3_orderings/JLK_delta_w_vac/Mn_Ni/elec_0/TM_staging/group_45",
+      "poscar": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/P3_orderings/JLK_delta_w_vac/Mn_Ni/elec_0/TM_staging/group_45/POSCAR",
+      "natoms": 270,
+      "energy_eV": -932.0703344268886,
+      "energy_per_atom_eV": -3.452112349729217,
+      "status": "OK"
+    },
+    {
+      "group": "group_46",
+      "group_dir": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/P3_orderings/JLK_delta_w_vac/Mn_Ni/elec_0/TM_staging/group_46",
+      "poscar": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/P3_orderings/JLK_delta_w_vac/Mn_Ni/elec_0/TM_staging/group_46/POSCAR",
+      "natoms": 270,
+      "energy_eV": -932.0848238883093,
+      "energy_per_atom_eV": -3.4521660144011457,
+      "status": "OK"
+    },
+    {
+      "group": "group_47",
+      "group_dir": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/P3_orderings/JLK_delta_w_vac/Mn_Ni/elec_0/TM_staging/group_47",
+      "poscar": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/P3_orderings/JLK_delta_w_vac/Mn_Ni/elec_0/TM_staging/group_47/POSCAR",
+      "natoms": 270,
+      "energy_eV": -932.0347244803195,
+      "energy_per_atom_eV": -3.4519804610382203,
+      "status": "OK"
+    },
+    {
+      "group": "group_48",
+      "group_dir": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/P3_orderings/JLK_delta_w_vac/Mn_Ni/elec_0/TM_staging/group_48",
+      "poscar": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/P3_orderings/JLK_delta_w_vac/Mn_Ni/elec_0/TM_staging/group_48/POSCAR",
+      "natoms": 270,
+      "energy_eV": -932.1063629226371,
+      "energy_per_atom_eV": -3.45224578860236,
+      "status": "OK"
+    },
+    {
+      "group": "group_49",
+      "group_dir": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/P3_orderings/JLK_delta_w_vac/Mn_Ni/elec_0/TM_staging/group_49",
+      "poscar": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/P3_orderings/JLK_delta_w_vac/Mn_Ni/elec_0/TM_staging/group_49/POSCAR",
+      "natoms": 270,
+      "energy_eV": -932.059874194797,
+      "energy_per_atom_eV": -3.452073608128878,
+      "status": "OK"
+    },
+    {
+      "group": "group_50",
+      "group_dir": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/P3_orderings/JLK_delta_w_vac/Mn_Ni/elec_0/TM_staging/group_50",
+      "poscar": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/P3_orderings/JLK_delta_w_vac/Mn_Ni/elec_0/TM_staging/group_50/POSCAR",
+      "natoms": 270,
+      "energy_eV": -932.0254812914111,
+      "energy_per_atom_eV": -3.451946227005226,
+      "status": "OK"
+    },
+    {
+      "group": "group_51",
+      "group_dir": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/P3_orderings/JLK_delta_w_vac/Mn_Ni/elec_0/TM_staging/group_51",
+      "poscar": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/P3_orderings/JLK_delta_w_vac/Mn_Ni/elec_0/TM_staging/group_51/POSCAR",
+      "natoms": 270,
+      "energy_eV": -932.093108463507,
+      "energy_per_atom_eV": -3.4521966980129886,
+      "status": "OK"
+    },
+    {
+      "group": "group_52",
+      "group_dir": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/P3_orderings/JLK_delta_w_vac/Mn_Ni/elec_0/TM_staging/group_52",
+      "poscar": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/P3_orderings/JLK_delta_w_vac/Mn_Ni/elec_0/TM_staging/group_52/POSCAR",
+      "natoms": 270,
+      "energy_eV": -932.0305402958388,
+      "energy_per_atom_eV": -3.4519649640586625,
+      "status": "OK"
+    },
+    {
+      "group": "group_53",
+      "group_dir": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/P3_orderings/JLK_delta_w_vac/Mn_Ni/elec_0/TM_staging/group_53",
+      "poscar": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/P3_orderings/JLK_delta_w_vac/Mn_Ni/elec_0/TM_staging/group_53/POSCAR",
+      "natoms": 270,
+      "energy_eV": -932.1021573037312,
+      "energy_per_atom_eV": -3.4522302122360418,
+      "status": "OK"
+    },
+    {
+      "group": "group_54",
+      "group_dir": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/P3_orderings/JLK_delta_w_vac/Mn_Ni/elec_0/TM_staging/group_54",
+      "poscar": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/P3_orderings/JLK_delta_w_vac/Mn_Ni/elec_0/TM_staging/group_54/POSCAR",
+      "natoms": 270,
+      "energy_eV": -932.0849846606441,
+      "energy_per_atom_eV": -3.4521666098542374,
+      "status": "OK"
+    },
+    {
+      "group": "group_55",
+      "group_dir": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/P3_orderings/JLK_delta_w_vac/Mn_Ni/elec_0/TM_staging/group_55",
+      "poscar": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/P3_orderings/JLK_delta_w_vac/Mn_Ni/elec_0/TM_staging/group_55/POSCAR",
+      "natoms": 270,
+      "energy_eV": -932.0713209057515,
+      "energy_per_atom_eV": -3.452116003354635,
+      "status": "OK"
+    },
+    {
+      "group": "group_56",
+      "group_dir": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/P3_orderings/JLK_delta_w_vac/Mn_Ni/elec_0/TM_staging/group_56",
+      "poscar": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/P3_orderings/JLK_delta_w_vac/Mn_Ni/elec_0/TM_staging/group_56/POSCAR",
+      "natoms": 270,
+      "energy_eV": -932.0546329397898,
+      "energy_per_atom_eV": -3.4520541960732958,
+      "status": "OK"
+    },
+    {
+      "group": "group_57",
+      "group_dir": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/P3_orderings/JLK_delta_w_vac/Mn_Ni/elec_0/TM_staging/group_57",
+      "poscar": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/P3_orderings/JLK_delta_w_vac/Mn_Ni/elec_0/TM_staging/group_57/POSCAR",
+      "natoms": 270,
+      "energy_eV": -932.1106529781578,
+      "energy_per_atom_eV": -3.4522616776968804,
+      "status": "OK"
+    },
+    {
+      "group": "group_58",
+      "group_dir": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/P3_orderings/JLK_delta_w_vac/Mn_Ni/elec_0/TM_staging/group_58",
+      "poscar": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/P3_orderings/JLK_delta_w_vac/Mn_Ni/elec_0/TM_staging/group_58/POSCAR",
+      "natoms": 270,
+      "energy_eV": -932.0212423789444,
+      "energy_per_atom_eV": -3.4519305273294236,
+      "status": "OK"
+    },
+    {
+      "group": "group_59",
+      "group_dir": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/P3_orderings/JLK_delta_w_vac/Mn_Ni/elec_0/TM_staging/group_59",
+      "poscar": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/P3_orderings/JLK_delta_w_vac/Mn_Ni/elec_0/TM_staging/group_59/POSCAR",
+      "natoms": 270,
+      "energy_eV": -932.0708382956052,
+      "energy_per_atom_eV": -3.4521142159096487,
+      "status": "OK"
+    },
+    {
+      "group": "group_60",
+      "group_dir": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/P3_orderings/JLK_delta_w_vac/Mn_Ni/elec_0/TM_staging/group_60",
+      "poscar": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/P3_orderings/JLK_delta_w_vac/Mn_Ni/elec_0/TM_staging/group_60/POSCAR",
+      "natoms": 270,
+      "energy_eV": -932.0487701763323,
+      "energy_per_atom_eV": -3.452032482134564,
+      "status": "OK"
+    },
+    {
+      "group": "group_61",
+      "group_dir": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/P3_orderings/JLK_delta_w_vac/Mn_Ni/elec_0/TM_staging/group_61",
+      "poscar": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/P3_orderings/JLK_delta_w_vac/Mn_Ni/elec_0/TM_staging/group_61/POSCAR",
+      "natoms": 270,
+      "energy_eV": -932.097276730793,
+      "energy_per_atom_eV": -3.4522121360399742,
+      "status": "OK"
+    },
+    {
+      "group": "group_62",
+      "group_dir": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/P3_orderings/JLK_delta_w_vac/Mn_Ni/elec_0/TM_staging/group_62",
+      "poscar": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/P3_orderings/JLK_delta_w_vac/Mn_Ni/elec_0/TM_staging/group_62/POSCAR",
+      "natoms": 270,
+      "energy_eV": -932.042521786221,
+      "energy_per_atom_eV": -3.4520093399489666,
+      "status": "OK"
+    },
+    {
+      "group": "group_63",
+      "group_dir": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/P3_orderings/JLK_delta_w_vac/Mn_Ni/elec_0/TM_staging/group_63",
+      "poscar": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/P3_orderings/JLK_delta_w_vac/Mn_Ni/elec_0/TM_staging/group_63/POSCAR",
+      "natoms": 270,
+      "energy_eV": -932.0912027525546,
+      "energy_per_atom_eV": -3.4521896398242764,
+      "status": "OK"
+    },
+    {
+      "group": "group_64",
+      "group_dir": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/P3_orderings/JLK_delta_w_vac/Mn_Ni/elec_0/TM_staging/group_64",
+      "poscar": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/P3_orderings/JLK_delta_w_vac/Mn_Ni/elec_0/TM_staging/group_64/POSCAR",
+      "natoms": 270,
+      "energy_eV": -932.0215861881172,
+      "energy_per_atom_eV": -3.4519318006967303,
+      "status": "OK"
+    },
+    {
+      "group": "group_65",
+      "group_dir": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/P3_orderings/JLK_delta_w_vac/Mn_Ni/elec_0/TM_staging/group_65",
+      "poscar": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/P3_orderings/JLK_delta_w_vac/Mn_Ni/elec_0/TM_staging/group_65/POSCAR",
+      "natoms": 270,
+      "energy_eV": -932.0705632652605,
+      "energy_per_atom_eV": -3.4521131972787424,
+      "status": "OK"
+    },
+    {
+      "group": "group_66",
+      "group_dir": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/P3_orderings/JLK_delta_w_vac/Mn_Ni/elec_0/TM_staging/group_66",
+      "poscar": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/P3_orderings/JLK_delta_w_vac/Mn_Ni/elec_0/TM_staging/group_66/POSCAR",
+      "natoms": 270,
+      "energy_eV": -932.1185590138787,
+      "energy_per_atom_eV": -3.4522909593106617,
+      "status": "OK"
+    },
+    {
+      "group": "group_67",
+      "group_dir": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/P3_orderings/JLK_delta_w_vac/Mn_Ni/elec_0/TM_staging/group_67",
+      "poscar": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/P3_orderings/JLK_delta_w_vac/Mn_Ni/elec_0/TM_staging/group_67/POSCAR",
+      "natoms": 270,
+      "energy_eV": -932.1192120081428,
+      "energy_per_atom_eV": -3.452293377807936,
+      "status": "OK"
+    },
+    {
+      "group": "group_68",
+      "group_dir": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/P3_orderings/JLK_delta_w_vac/Mn_Ni/elec_0/TM_staging/group_68",
+      "poscar": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/P3_orderings/JLK_delta_w_vac/Mn_Ni/elec_0/TM_staging/group_68/POSCAR",
+      "natoms": 270,
+      "energy_eV": -932.0698229563,
+      "energy_per_atom_eV": -3.4521104553937034,
+      "status": "OK"
+    },
+    {
+      "group": "group_69",
+      "group_dir": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/P3_orderings/JLK_delta_w_vac/Mn_Ni/elec_0/TM_staging/group_69",
+      "poscar": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/P3_orderings/JLK_delta_w_vac/Mn_Ni/elec_0/TM_staging/group_69/POSCAR",
+      "natoms": 270,
+      "energy_eV": -932.0902272984308,
+      "energy_per_atom_eV": -3.4521860270312255,
+      "status": "OK"
+    },
+    {
+      "group": "group_70",
+      "group_dir": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/P3_orderings/JLK_delta_w_vac/Mn_Ni/elec_0/TM_staging/group_70",
+      "poscar": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/P3_orderings/JLK_delta_w_vac/Mn_Ni/elec_0/TM_staging/group_70/POSCAR",
+      "natoms": 270,
+      "energy_eV": -932.1181635911296,
+      "energy_per_atom_eV": -3.4522894947819616,
+      "status": "OK"
+    },
+    {
+      "group": "group_71",
+      "group_dir": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/P3_orderings/JLK_delta_w_vac/Mn_Ni/elec_0/TM_staging/group_71",
+      "poscar": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/P3_orderings/JLK_delta_w_vac/Mn_Ni/elec_0/TM_staging/group_71/POSCAR",
+      "natoms": 270,
+      "energy_eV": -932.0974845355527,
+      "energy_per_atom_eV": -3.452212905687232,
+      "status": "OK"
+    },
+    {
+      "group": "group_72",
+      "group_dir": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/P3_orderings/JLK_delta_w_vac/Mn_Ni/elec_0/TM_staging/group_72",
+      "poscar": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/P3_orderings/JLK_delta_w_vac/Mn_Ni/elec_0/TM_staging/group_72/POSCAR",
+      "natoms": 270,
+      "energy_eV": -932.090358264529,
+      "energy_per_atom_eV": -3.452186512090848,
+      "status": "OK"
+    },
+    {
+      "group": "group_73",
+      "group_dir": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/P3_orderings/JLK_delta_w_vac/Mn_Ni/elec_0/TM_staging/group_73",
+      "poscar": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/P3_orderings/JLK_delta_w_vac/Mn_Ni/elec_0/TM_staging/group_73/POSCAR",
+      "natoms": 270,
+      "energy_eV": -932.1117331855748,
+      "energy_per_atom_eV": -3.4522656784650922,
+      "status": "OK"
+    },
+    {
+      "group": "group_74",
+      "group_dir": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/P3_orderings/JLK_delta_w_vac/Mn_Ni/elec_0/TM_staging/group_74",
+      "poscar": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/P3_orderings/JLK_delta_w_vac/Mn_Ni/elec_0/TM_staging/group_74/POSCAR",
+      "natoms": 270,
+      "energy_eV": -932.0903179258789,
+      "energy_per_atom_eV": -3.4521863626884404,
+      "status": "OK"
+    },
+    {
+      "group": "group_75",
+      "group_dir": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/P3_orderings/JLK_delta_w_vac/Mn_Ni/elec_0/TM_staging/group_75",
+      "poscar": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/P3_orderings/JLK_delta_w_vac/Mn_Ni/elec_0/TM_staging/group_75/POSCAR",
+      "natoms": 270,
+      "energy_eV": -932.0703902840764,
+      "energy_per_atom_eV": -3.4521125566076907,
+      "status": "OK"
+    },
+    {
+      "group": "group_76",
+      "group_dir": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/P3_orderings/JLK_delta_w_vac/Mn_Ni/elec_0/TM_staging/group_76",
+      "poscar": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/P3_orderings/JLK_delta_w_vac/Mn_Ni/elec_0/TM_staging/group_76/POSCAR",
+      "natoms": 270,
+      "energy_eV": -932.0260154202872,
+      "energy_per_atom_eV": -3.4519482052603228,
+      "status": "OK"
+    },
+    {
+      "group": "group_77",
+      "group_dir": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/P3_orderings/JLK_delta_w_vac/Mn_Ni/elec_0/TM_staging/group_77",
+      "poscar": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/P3_orderings/JLK_delta_w_vac/Mn_Ni/elec_0/TM_staging/group_77/POSCAR",
+      "natoms": 270,
+      "energy_eV": -932.088761635365,
+      "energy_per_atom_eV": -3.4521805986495,
+      "status": "OK"
+    },
+    {
+      "group": "group_78",
+      "group_dir": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/P3_orderings/JLK_delta_w_vac/Mn_Ni/elec_0/TM_staging/group_78",
+      "poscar": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/P3_orderings/JLK_delta_w_vac/Mn_Ni/elec_0/TM_staging/group_78/POSCAR",
+      "natoms": 270,
+      "energy_eV": -932.0260993542806,
+      "energy_per_atom_eV": -3.4519485161269654,
+      "status": "OK"
+    },
+    {
+      "group": "group_79",
+      "group_dir": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/P3_orderings/JLK_delta_w_vac/Mn_Ni/elec_0/TM_staging/group_79",
+      "poscar": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/P3_orderings/JLK_delta_w_vac/Mn_Ni/elec_0/TM_staging/group_79/POSCAR",
+      "natoms": 270,
+      "energy_eV": -932.0894572996285,
+      "energy_per_atom_eV": -3.4521831751838095,
+      "status": "OK"
+    },
+    {
+      "group": "group_80",
+      "group_dir": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/P3_orderings/JLK_delta_w_vac/Mn_Ni/elec_0/TM_staging/group_80",
+      "poscar": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/P3_orderings/JLK_delta_w_vac/Mn_Ni/elec_0/TM_staging/group_80/POSCAR",
+      "natoms": 270,
+      "energy_eV": -932.0555839685439,
+      "energy_per_atom_eV": -3.4520577184020147,
+      "status": "OK"
+    },
+    {
+      "group": "group_81",
+      "group_dir": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/P3_orderings/JLK_delta_w_vac/Mn_Ni/elec_0/TM_staging/group_81",
+      "poscar": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/P3_orderings/JLK_delta_w_vac/Mn_Ni/elec_0/TM_staging/group_81/POSCAR",
+      "natoms": 270,
+      "energy_eV": -932.0548995234849,
+      "energy_per_atom_eV": -3.4520551834203146,
+      "status": "OK"
+    },
+    {
+      "group": "group_82",
+      "group_dir": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/P3_orderings/JLK_delta_w_vac/Mn_Ni/elec_0/TM_staging/group_82",
+      "poscar": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/P3_orderings/JLK_delta_w_vac/Mn_Ni/elec_0/TM_staging/group_82/POSCAR",
+      "natoms": 270,
+      "energy_eV": -932.0254174453141,
+      "energy_per_atom_eV": -3.4519459905382006,
+      "status": "OK"
+    },
+    {
+      "group": "group_83",
+      "group_dir": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/P3_orderings/JLK_delta_w_vac/Mn_Ni/elec_0/TM_staging/group_83",
+      "poscar": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/P3_orderings/JLK_delta_w_vac/Mn_Ni/elec_0/TM_staging/group_83/POSCAR",
+      "natoms": 270,
+      "energy_eV": -932.0871792680243,
+      "energy_per_atom_eV": -3.45217473802972,
+      "status": "OK"
+    },
+    {
+      "group": "group_84",
+      "group_dir": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/P3_orderings/JLK_delta_w_vac/Mn_Ni/elec_0/TM_staging/group_84",
+      "poscar": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/P3_orderings/JLK_delta_w_vac/Mn_Ni/elec_0/TM_staging/group_84/POSCAR",
+      "natoms": 270,
+      "energy_eV": -932.0845976111752,
+      "energy_per_atom_eV": -3.452165176337686,
+      "status": "OK"
+    },
+    {
+      "group": "group_85",
+      "group_dir": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/P3_orderings/JLK_delta_w_vac/Mn_Ni/elec_0/TM_staging/group_85",
+      "poscar": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/P3_orderings/JLK_delta_w_vac/Mn_Ni/elec_0/TM_staging/group_85/POSCAR",
+      "natoms": 270,
+      "energy_eV": -932.0531609273955,
+      "energy_per_atom_eV": -3.452048744175539,
+      "status": "OK"
+    },
+    {
+      "group": "group_86",
+      "group_dir": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/P3_orderings/JLK_delta_w_vac/Mn_Ni/elec_0/TM_staging/group_86",
+      "poscar": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/P3_orderings/JLK_delta_w_vac/Mn_Ni/elec_0/TM_staging/group_86/POSCAR",
+      "natoms": 270,
+      "energy_eV": -932.0527972424634,
+      "energy_per_atom_eV": -3.452047397194309,
+      "status": "OK"
+    },
+    {
+      "group": "group_87",
+      "group_dir": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/P3_orderings/JLK_delta_w_vac/Mn_Ni/elec_0/TM_staging/group_87",
+      "poscar": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/P3_orderings/JLK_delta_w_vac/Mn_Ni/elec_0/TM_staging/group_87/POSCAR",
+      "natoms": 270,
+      "energy_eV": -932.0882073936566,
+      "energy_per_atom_eV": -3.4521785459024317,
+      "status": "OK"
+    },
+    {
+      "group": "group_88",
+      "group_dir": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/P3_orderings/JLK_delta_w_vac/Mn_Ni/elec_0/TM_staging/group_88",
+      "poscar": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/P3_orderings/JLK_delta_w_vac/Mn_Ni/elec_0/TM_staging/group_88/POSCAR",
+      "natoms": 270,
+      "energy_eV": -932.0789530009974,
+      "energy_per_atom_eV": -3.4521442703740646,
+      "status": "OK"
+    },
+    {
+      "group": "group_89",
+      "group_dir": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/P3_orderings/JLK_delta_w_vac/Mn_Ni/elec_0/TM_staging/group_89",
+      "poscar": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/P3_orderings/JLK_delta_w_vac/Mn_Ni/elec_0/TM_staging/group_89/POSCAR",
+      "natoms": 270,
+      "energy_eV": -932.0789862124775,
+      "energy_per_atom_eV": -3.4521443933795464,
+      "status": "OK"
+    },
+    {
+      "group": "group_90",
+      "group_dir": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/P3_orderings/JLK_delta_w_vac/Mn_Ni/elec_0/TM_staging/group_90",
+      "poscar": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/P3_orderings/JLK_delta_w_vac/Mn_Ni/elec_0/TM_staging/group_90/POSCAR",
+      "natoms": 270,
+      "energy_eV": -932.0878081086453,
+      "energy_per_atom_eV": -3.4521770670690564,
+      "status": "OK"
+    },
+    {
+      "group": "group_91",
+      "group_dir": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/P3_orderings/JLK_delta_w_vac/Mn_Ni/elec_0/TM_staging/group_91",
+      "poscar": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/P3_orderings/JLK_delta_w_vac/Mn_Ni/elec_0/TM_staging/group_91/POSCAR",
+      "natoms": 270,
+      "energy_eV": -932.0668749863657,
+      "energy_per_atom_eV": -3.4520995369865397,
+      "status": "OK"
+    },
+    {
+      "group": "group_92",
+      "group_dir": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/P3_orderings/JLK_delta_w_vac/Mn_Ni/elec_0/TM_staging/group_92",
+      "poscar": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/P3_orderings/JLK_delta_w_vac/Mn_Ni/elec_0/TM_staging/group_92/POSCAR",
+      "natoms": 270,
+      "energy_eV": -932.0927700394436,
+      "energy_per_atom_eV": -3.452195444590532,
+      "status": "OK"
+    },
+    {
+      "group": "group_93",
+      "group_dir": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/P3_orderings/JLK_delta_w_vac/Mn_Ni/elec_0/TM_staging/group_93",
+      "poscar": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/P3_orderings/JLK_delta_w_vac/Mn_Ni/elec_0/TM_staging/group_93/POSCAR",
+      "natoms": 270,
+      "energy_eV": -932.0767569418492,
+      "energy_per_atom_eV": -3.4521361368216636,
+      "status": "OK"
+    },
+    {
+      "group": "group_94",
+      "group_dir": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/P3_orderings/JLK_delta_w_vac/Mn_Ni/elec_0/TM_staging/group_94",
+      "poscar": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/P3_orderings/JLK_delta_w_vac/Mn_Ni/elec_0/TM_staging/group_94/POSCAR",
+      "natoms": 270,
+      "energy_eV": -932.064819472439,
+      "energy_per_atom_eV": -3.4520919239719965,
+      "status": "OK"
+    },
+    {
+      "group": "group_95",
+      "group_dir": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/P3_orderings/JLK_delta_w_vac/Mn_Ni/elec_0/TM_staging/group_95",
+      "poscar": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/P3_orderings/JLK_delta_w_vac/Mn_Ni/elec_0/TM_staging/group_95/POSCAR",
+      "natoms": 270,
+      "energy_eV": -932.0904824403074,
+      "energy_per_atom_eV": -3.4521869720011384,
+      "status": "OK"
+    },
+    {
+      "group": "group_96",
+      "group_dir": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/P3_orderings/JLK_delta_w_vac/Mn_Ni/elec_0/TM_staging/group_96",
+      "poscar": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/P3_orderings/JLK_delta_w_vac/Mn_Ni/elec_0/TM_staging/group_96/POSCAR",
+      "natoms": 270,
+      "energy_eV": -932.0800199259606,
+      "energy_per_atom_eV": -3.4521482219480024,
+      "status": "OK"
+    },
+    {
+      "group": "group_97",
+      "group_dir": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/P3_orderings/JLK_delta_w_vac/Mn_Ni/elec_0/TM_staging/group_97",
+      "poscar": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/P3_orderings/JLK_delta_w_vac/Mn_Ni/elec_0/TM_staging/group_97/POSCAR",
+      "natoms": 270,
+      "energy_eV": -932.1184817735004,
+      "energy_per_atom_eV": -3.452290673235187,
+      "status": "OK"
+    },
+    {
+      "group": "group_98",
+      "group_dir": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/P3_orderings/JLK_delta_w_vac/Mn_Ni/elec_0/TM_staging/group_98",
+      "poscar": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/P3_orderings/JLK_delta_w_vac/Mn_Ni/elec_0/TM_staging/group_98/POSCAR",
+      "natoms": 270,
+      "energy_eV": -932.0676422359988,
+      "energy_per_atom_eV": -3.4521023786518477,
+      "status": "OK"
+    },
+    {
+      "group": "group_99",
+      "group_dir": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/P3_orderings/JLK_delta_w_vac/Mn_Ni/elec_0/TM_staging/group_99",
+      "poscar": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/P3_orderings/JLK_delta_w_vac/Mn_Ni/elec_0/TM_staging/group_99/POSCAR",
+      "natoms": 270,
+      "energy_eV": -932.0674430235692,
+      "energy_per_atom_eV": -3.452101640828034,
+      "status": "OK"
+    },
+    {
+      "group": "group_100",
+      "group_dir": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/P3_orderings/JLK_delta_w_vac/Mn_Ni/elec_0/TM_staging/group_100",
+      "poscar": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/P3_orderings/JLK_delta_w_vac/Mn_Ni/elec_0/TM_staging/group_100/POSCAR",
+      "natoms": 270,
+      "energy_eV": -932.0815575591478,
+      "energy_per_atom_eV": -3.4521539168857323,
+      "status": "OK"
+    },
+    {
+      "group": "group_101",
+      "group_dir": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/P3_orderings/JLK_delta_w_vac/Mn_Ni/elec_0/TM_staging/group_101",
+      "poscar": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/P3_orderings/JLK_delta_w_vac/Mn_Ni/elec_0/TM_staging/group_101/POSCAR",
+      "natoms": 270,
+      "energy_eV": -932.0924059895337,
+      "energy_per_atom_eV": -3.4521940962575326,
+      "status": "OK"
+    },
+    {
+      "group": "group_102",
+      "group_dir": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/P3_orderings/JLK_delta_w_vac/Mn_Ni/elec_0/TM_staging/group_102",
+      "poscar": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/P3_orderings/JLK_delta_w_vac/Mn_Ni/elec_0/TM_staging/group_102/POSCAR",
+      "natoms": 270,
+      "energy_eV": -932.0198734962564,
+      "energy_per_atom_eV": -3.4519254573935423,
+      "status": "OK"
+    },
+    {
+      "group": "group_103",
+      "group_dir": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/P3_orderings/JLK_delta_w_vac/Mn_Ni/elec_0/TM_staging/group_103",
+      "poscar": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/P3_orderings/JLK_delta_w_vac/Mn_Ni/elec_0/TM_staging/group_103/POSCAR",
+      "natoms": 270,
+      "energy_eV": -932.0873096656801,
+      "energy_per_atom_eV": -3.4521752209840004,
+      "status": "OK"
+    },
+    {
+      "group": "group_104",
+      "group_dir": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/P3_orderings/JLK_delta_w_vac/Mn_Ni/elec_0/TM_staging/group_104",
+      "poscar": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/P3_orderings/JLK_delta_w_vac/Mn_Ni/elec_0/TM_staging/group_104/POSCAR",
+      "natoms": 270,
+      "energy_eV": -932.1067583037741,
+      "energy_per_atom_eV": -3.452247252976941,
+      "status": "OK"
+    },
+    {
+      "group": "group_105",
+      "group_dir": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/P3_orderings/JLK_delta_w_vac/Mn_Ni/elec_0/TM_staging/group_105",
+      "poscar": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/P3_orderings/JLK_delta_w_vac/Mn_Ni/elec_0/TM_staging/group_105/POSCAR",
+      "natoms": 270,
+      "energy_eV": -932.1064808800215,
+      "energy_per_atom_eV": -3.452246225481561,
+      "status": "OK"
+    },
+    {
+      "group": "group_106",
+      "group_dir": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/P3_orderings/JLK_delta_w_vac/Mn_Ni/elec_0/TM_staging/group_106",
+      "poscar": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/P3_orderings/JLK_delta_w_vac/Mn_Ni/elec_0/TM_staging/group_106/POSCAR",
+      "natoms": 270,
+      "energy_eV": -932.0552236901053,
+      "energy_per_atom_eV": -3.452056384037427,
+      "status": "OK"
+    },
+    {
+      "group": "group_107",
+      "group_dir": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/P3_orderings/JLK_delta_w_vac/Mn_Ni/elec_0/TM_staging/group_107",
+      "poscar": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/P3_orderings/JLK_delta_w_vac/Mn_Ni/elec_0/TM_staging/group_107/POSCAR",
+      "natoms": 270,
+      "energy_eV": -932.1297270112821,
+      "energy_per_atom_eV": -3.4523323222640077,
+      "status": "OK"
+    }
+  ]
+}

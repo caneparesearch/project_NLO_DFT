@@ -1,0 +1,64 @@
+{
+  "representative_from": {
+    "t2_index": 0,
+    "t3_index": 2,
+    "t2_vector_frac_xy": [
+      0.0,
+      0.6667
+    ],
+    "t3_vector_frac_xy": [
+      0.0,
+      0.3333
+    ]
+  },
+  "members": [
+    {
+      "t2_index": 0,
+      "t3_index": 2,
+      "t2_vector_frac_xy": [
+        0.0,
+        0.6667
+      ],
+      "t3_vector_frac_xy": [
+        0.0,
+        0.3333
+      ]
+    },
+    {
+      "t2_index": 1,
+      "t3_index": 1,
+      "t2_vector_frac_xy": [
+        0.6667,
+        0.0
+      ],
+      "t3_vector_frac_xy": [
+        0.3333,
+        0.0
+      ]
+    },
+    {
+      "t2_index": 2,
+      "t3_index": 0,
+      "t2_vector_frac_xy": [
+        0.3333,
+        0.3333
+      ],
+      "t3_vector_frac_xy": [
+        0.6667,
+        0.6667
+      ]
+    }
+  ],
+  "counts": {
+    "|V2|": 3,
+    "|V3|": 3,
+    "candidates": 9,
+    "unique_groups": 2
+  },
+  "matcher_tolerances": {
+    "ltol": 0.2,
+    "stol": 0.3,
+    "angle_tol": 5.0
+  },
+  "notes": "All three layers share an identical Na/K pattern up to in-plane translation. Na and K treated as distinct during symmetry matching."
+}

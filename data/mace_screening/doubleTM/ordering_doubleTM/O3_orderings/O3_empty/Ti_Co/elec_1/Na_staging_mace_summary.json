@@ -1,0 +1,25 @@
+{
+  "phase": "O3_orderings",
+  "ordering": "O3_empty",
+  "tm_pair": "Ti_Co",
+  "elec_dir": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/O3_orderings/O3_empty/Ti_Co/elec_1",
+  "n_trans_discovered": 1,
+  "n_trans_evaluated_ok": 1,
+  "model": "/home/ychoi35/project_NaLayered_MLIP/data/mace-omat-0-medium.model",
+  "best_trans": "trans_0",
+  "best_energy_eV": -258.04573910990723,
+  "best_energy_per_atom_eV": -7.167937197497423,
+  "best_poscar": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/O3_orderings/O3_empty/Ti_Co/elec_1/POSCAR_lowestEconfig.vasp",
+  "runtime_s": 0.06693363189697266,
+  "trans": [
+    {
+      "trans": "trans_0",
+      "trans_dir": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/O3_orderings/O3_empty/Ti_Co/elec_1/Na_staging/trans_0",
+      "poscar": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/O3_orderings/O3_empty/Ti_Co/elec_1/Na_staging/trans_0/POSCAR",
+      "natoms": 36,
+      "energy_eV": -258.04573910990723,
+      "energy_per_atom_eV": -7.167937197497423,
+      "status": "OK"
+    }
+  ]
+}

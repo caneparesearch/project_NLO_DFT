@@ -1,0 +1,34 @@
+{
+  "phase": "P3_orderings",
+  "ordering": "JLK_zeta2_w_vac",
+  "tm_pair": "Ti_Mn",
+  "elec_dir": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/P3_orderings/JLK_zeta2_w_vac/Ti_Mn/elec_0",
+  "n_groups_discovered": 2,
+  "n_groups_evaluated_ok": 2,
+  "model": "/home/ychoi35/project_NaLayered_MLIP/data/mace-omat-0-medium.model",
+  "best_group": "group_1",
+  "best_energy_eV": -618.6692415008084,
+  "best_energy_per_atom_eV": -4.1244616100053895,
+  "best_poscar": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/P3_orderings/JLK_zeta2_w_vac/Ti_Mn/elec_0/POSCAR_TMstaging",
+  "runtime_s": 0.5829236507415771,
+  "groups": [
+    {
+      "group": "group_0",
+      "group_dir": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/P3_orderings/JLK_zeta2_w_vac/Ti_Mn/elec_0/TM_staging/group_0",
+      "poscar": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/P3_orderings/JLK_zeta2_w_vac/Ti_Mn/elec_0/TM_staging/group_0/POSCAR",
+      "natoms": 150,
+      "energy_eV": -618.297672779751,
+      "energy_per_atom_eV": -4.12198448519834,
+      "status": "OK"
+    },
+    {
+      "group": "group_1",
+      "group_dir": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/P3_orderings/JLK_zeta2_w_vac/Ti_Mn/elec_0/TM_staging/group_1",
+      "poscar": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/P3_orderings/JLK_zeta2_w_vac/Ti_Mn/elec_0/TM_staging/group_1/POSCAR",
+      "natoms": 150,
+      "energy_eV": -618.6692415008084,
+      "energy_per_atom_eV": -4.1244616100053895,
+      "status": "OK"
+    }
+  ]
+}

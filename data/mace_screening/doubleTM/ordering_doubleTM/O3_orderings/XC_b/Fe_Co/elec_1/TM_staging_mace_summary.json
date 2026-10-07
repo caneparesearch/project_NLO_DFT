@@ -1,0 +1,88 @@
+{
+  "phase": "O3_orderings",
+  "ordering": "XC_b",
+  "tm_pair": "Fe_Co",
+  "elec_dir": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/O3_orderings/XC_b/Fe_Co/elec_1",
+  "n_groups_discovered": 8,
+  "n_groups_evaluated_ok": 8,
+  "model": "/home/ychoi35/project_NaLayered_MLIP/data/mace-omat-0-medium.model",
+  "best_group": "group_7",
+  "best_energy_eV": -238.78977426084958,
+  "best_energy_per_atom_eV": -5.685470815734514,
+  "best_poscar": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/O3_orderings/XC_b/Fe_Co/elec_1/POSCAR_TMstaging",
+  "runtime_s": 0.6328074932098389,
+  "groups": [
+    {
+      "group": "group_0",
+      "group_dir": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/O3_orderings/XC_b/Fe_Co/elec_1/TM_staging/group_0",
+      "poscar": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/O3_orderings/XC_b/Fe_Co/elec_1/TM_staging/group_0/POSCAR",
+      "natoms": 42,
+      "energy_eV": -238.3306243718393,
+      "energy_per_atom_eV": -5.674538675519983,
+      "status": "OK"
+    },
+    {
+      "group": "group_1",
+      "group_dir": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/O3_orderings/XC_b/Fe_Co/elec_1/TM_staging/group_1",
+      "poscar": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/O3_orderings/XC_b/Fe_Co/elec_1/TM_staging/group_1/POSCAR",
+      "natoms": 42,
+      "energy_eV": -238.78923248388998,
+      "energy_per_atom_eV": -5.685457916283094,
+      "status": "OK"
+    },
+    {
+      "group": "group_2",
+      "group_dir": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/O3_orderings/XC_b/Fe_Co/elec_1/TM_staging/group_2",
+      "poscar": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/O3_orderings/XC_b/Fe_Co/elec_1/TM_staging/group_2/POSCAR",
+      "natoms": 42,
+      "energy_eV": -238.33111126177295,
+      "energy_per_atom_eV": -5.674550268137451,
+      "status": "OK"
+    },
+    {
+      "group": "group_3",
+      "group_dir": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/O3_orderings/XC_b/Fe_Co/elec_1/TM_staging/group_3",
+      "poscar": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/O3_orderings/XC_b/Fe_Co/elec_1/TM_staging/group_3/POSCAR",
+      "natoms": 42,
+      "energy_eV": -238.78975286802606,
+      "energy_per_atom_eV": -5.685470306381573,
+      "status": "OK"
+    },
+    {
+      "group": "group_4",
+      "group_dir": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/O3_orderings/XC_b/Fe_Co/elec_1/TM_staging/group_4",
+      "poscar": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/O3_orderings/XC_b/Fe_Co/elec_1/TM_staging/group_4/POSCAR",
+      "natoms": 42,
+      "energy_eV": -237.86955300201276,
+      "energy_per_atom_eV": -5.663560785762209,
+      "status": "OK"
+    },
+    {
+      "group": "group_5",
+      "group_dir": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/O3_orderings/XC_b/Fe_Co/elec_1/TM_staging/group_5",
+      "poscar": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/O3_orderings/XC_b/Fe_Co/elec_1/TM_staging/group_5/POSCAR",
+      "natoms": 42,
+      "energy_eV": -237.86912263142827,
+      "energy_per_atom_eV": -5.6635505388435305,
+      "status": "OK"
+    },
+    {
+      "group": "group_6",
+      "group_dir": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/O3_orderings/XC_b/Fe_Co/elec_1/TM_staging/group_6",
+      "poscar": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/O3_orderings/XC_b/Fe_Co/elec_1/TM_staging/group_6/POSCAR",
+      "natoms": 42,
+      "energy_eV": -238.33116804522115,
+      "energy_per_atom_eV": -5.674551620124313,
+      "status": "OK"
+    },
+    {
+      "group": "group_7",
+      "group_dir": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/O3_orderings/XC_b/Fe_Co/elec_1/TM_staging/group_7",
+      "poscar": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/O3_orderings/XC_b/Fe_Co/elec_1/TM_staging/group_7/POSCAR",
+      "natoms": 42,
+      "energy_eV": -238.78977426084958,
+      "energy_per_atom_eV": -5.685470815734514,
+      "status": "OK"
+    }
+  ]
+}

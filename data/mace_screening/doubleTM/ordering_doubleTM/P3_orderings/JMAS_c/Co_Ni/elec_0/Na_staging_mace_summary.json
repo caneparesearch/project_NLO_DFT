@@ -1,0 +1,25 @@
+{
+  "phase": "P3_orderings",
+  "ordering": "JMAS_c",
+  "tm_pair": "Co_Ni",
+  "elec_dir": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/P3_orderings/JMAS_c/Co_Ni/elec_0",
+  "n_trans_discovered": 1,
+  "n_trans_evaluated_ok": 1,
+  "model": "/home/ychoi35/project_NaLayered_MLIP/data/mace-omat-0-medium.model",
+  "best_trans": "trans_0",
+  "best_energy_eV": -215.15600722622892,
+  "best_energy_per_atom_eV": -5.122762076814975,
+  "best_poscar": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/P3_orderings/JMAS_c/Co_Ni/elec_0/POSCAR_lowestEconfig.vasp",
+  "runtime_s": 0.07788443565368652,
+  "trans": [
+    {
+      "trans": "trans_0",
+      "trans_dir": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/P3_orderings/JMAS_c/Co_Ni/elec_0/Na_staging/trans_0",
+      "poscar": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/P3_orderings/JMAS_c/Co_Ni/elec_0/Na_staging/trans_0/POSCAR",
+      "natoms": 42,
+      "energy_eV": -215.15600722622892,
+      "energy_per_atom_eV": -5.122762076814975,
+      "status": "OK"
+    }
+  ]
+}

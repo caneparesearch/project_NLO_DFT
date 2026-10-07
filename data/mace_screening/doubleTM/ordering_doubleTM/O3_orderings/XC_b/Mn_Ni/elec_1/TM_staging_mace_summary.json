@@ -1,0 +1,88 @@
+{
+  "phase": "O3_orderings",
+  "ordering": "XC_b",
+  "tm_pair": "Mn_Ni",
+  "elec_dir": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/O3_orderings/XC_b/Mn_Ni/elec_1",
+  "n_groups_discovered": 8,
+  "n_groups_evaluated_ok": 8,
+  "model": "/home/ychoi35/project_NaLayered_MLIP/data/mace-omat-0-medium.model",
+  "best_group": "group_5",
+  "best_energy_eV": -236.03597558844615,
+  "best_energy_per_atom_eV": -5.619904180677289,
+  "best_poscar": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/O3_orderings/XC_b/Mn_Ni/elec_1/POSCAR_TMstaging",
+  "runtime_s": 0.6326262950897217,
+  "groups": [
+    {
+      "group": "group_0",
+      "group_dir": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/O3_orderings/XC_b/Mn_Ni/elec_1/TM_staging/group_0",
+      "poscar": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/O3_orderings/XC_b/Mn_Ni/elec_1/TM_staging/group_0/POSCAR",
+      "natoms": 42,
+      "energy_eV": -235.81652666220117,
+      "energy_per_atom_eV": -5.614679206242885,
+      "status": "OK"
+    },
+    {
+      "group": "group_1",
+      "group_dir": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/O3_orderings/XC_b/Mn_Ni/elec_1/TM_staging/group_1",
+      "poscar": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/O3_orderings/XC_b/Mn_Ni/elec_1/TM_staging/group_1/POSCAR",
+      "natoms": 42,
+      "energy_eV": -235.60203332742856,
+      "energy_per_atom_eV": -5.609572222081632,
+      "status": "OK"
+    },
+    {
+      "group": "group_2",
+      "group_dir": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/O3_orderings/XC_b/Mn_Ni/elec_1/TM_staging/group_2",
+      "poscar": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/O3_orderings/XC_b/Mn_Ni/elec_1/TM_staging/group_2/POSCAR",
+      "natoms": 42,
+      "energy_eV": -235.81370278593647,
+      "energy_per_atom_eV": -5.6146119710937255,
+      "status": "OK"
+    },
+    {
+      "group": "group_3",
+      "group_dir": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/O3_orderings/XC_b/Mn_Ni/elec_1/TM_staging/group_3",
+      "poscar": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/O3_orderings/XC_b/Mn_Ni/elec_1/TM_staging/group_3/POSCAR",
+      "natoms": 42,
+      "energy_eV": -235.60077420088254,
+      "energy_per_atom_eV": -5.609542242878156,
+      "status": "OK"
+    },
+    {
+      "group": "group_4",
+      "group_dir": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/O3_orderings/XC_b/Mn_Ni/elec_1/TM_staging/group_4",
+      "poscar": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/O3_orderings/XC_b/Mn_Ni/elec_1/TM_staging/group_4/POSCAR",
+      "natoms": 42,
+      "energy_eV": -236.03233312715395,
+      "energy_per_atom_eV": -5.619817455408428,
+      "status": "OK"
+    },
+    {
+      "group": "group_5",
+      "group_dir": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/O3_orderings/XC_b/Mn_Ni/elec_1/TM_staging/group_5",
+      "poscar": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/O3_orderings/XC_b/Mn_Ni/elec_1/TM_staging/group_5/POSCAR",
+      "natoms": 42,
+      "energy_eV": -236.03597558844615,
+      "energy_per_atom_eV": -5.619904180677289,
+      "status": "OK"
+    },
+    {
+      "group": "group_6",
+      "group_dir": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/O3_orderings/XC_b/Mn_Ni/elec_1/TM_staging/group_6",
+      "poscar": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/O3_orderings/XC_b/Mn_Ni/elec_1/TM_staging/group_6/POSCAR",
+      "natoms": 42,
+      "energy_eV": -235.81465092914374,
+      "energy_per_atom_eV": -5.6146345459319935,
+      "status": "OK"
+    },
+    {
+      "group": "group_7",
+      "group_dir": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/O3_orderings/XC_b/Mn_Ni/elec_1/TM_staging/group_7",
+      "poscar": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/O3_orderings/XC_b/Mn_Ni/elec_1/TM_staging/group_7/POSCAR",
+      "natoms": 42,
+      "energy_eV": -235.60002302174303,
+      "energy_per_atom_eV": -5.609524357660549,
+      "status": "OK"
+    }
+  ]
+}

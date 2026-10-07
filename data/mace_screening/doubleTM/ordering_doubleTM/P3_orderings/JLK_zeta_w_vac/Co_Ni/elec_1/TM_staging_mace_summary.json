@@ -1,0 +1,52 @@
+{
+  "phase": "P3_orderings",
+  "ordering": "JLK_zeta_w_vac",
+  "tm_pair": "Co_Ni",
+  "elec_dir": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/P3_orderings/JLK_zeta_w_vac/Co_Ni/elec_1",
+  "n_groups_discovered": 4,
+  "n_groups_evaluated_ok": 4,
+  "model": "/home/ychoi35/project_NaLayered_MLIP/data/mace-omat-0-medium.model",
+  "best_group": "group_2",
+  "best_energy_eV": -187.32826098745716,
+  "best_energy_per_atom_eV": -3.122137683124286,
+  "best_poscar": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/P3_orderings/JLK_zeta_w_vac/Co_Ni/elec_1/POSCAR_TMstaging",
+  "runtime_s": 0.480466365814209,
+  "groups": [
+    {
+      "group": "group_0",
+      "group_dir": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/P3_orderings/JLK_zeta_w_vac/Co_Ni/elec_1/TM_staging/group_0",
+      "poscar": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/P3_orderings/JLK_zeta_w_vac/Co_Ni/elec_1/TM_staging/group_0/POSCAR",
+      "natoms": 60,
+      "energy_eV": -187.3273097580867,
+      "energy_per_atom_eV": -3.1221218293014448,
+      "status": "OK"
+    },
+    {
+      "group": "group_1",
+      "group_dir": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/P3_orderings/JLK_zeta_w_vac/Co_Ni/elec_1/TM_staging/group_1",
+      "poscar": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/P3_orderings/JLK_zeta_w_vac/Co_Ni/elec_1/TM_staging/group_1/POSCAR",
+      "natoms": 60,
+      "energy_eV": -187.32825889416426,
+      "energy_per_atom_eV": -3.122137648236071,
+      "status": "OK"
+    },
+    {
+      "group": "group_2",
+      "group_dir": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/P3_orderings/JLK_zeta_w_vac/Co_Ni/elec_1/TM_staging/group_2",
+      "poscar": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/P3_orderings/JLK_zeta_w_vac/Co_Ni/elec_1/TM_staging/group_2/POSCAR",
+      "natoms": 60,
+      "energy_eV": -187.32826098745716,
+      "energy_per_atom_eV": -3.122137683124286,
+      "status": "OK"
+    },
+    {
+      "group": "group_3",
+      "group_dir": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/P3_orderings/JLK_zeta_w_vac/Co_Ni/elec_1/TM_staging/group_3",
+      "poscar": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/P3_orderings/JLK_zeta_w_vac/Co_Ni/elec_1/TM_staging/group_3/POSCAR",
+      "natoms": 60,
+      "energy_eV": -187.32638012741108,
+      "energy_per_atom_eV": -3.1221063354568512,
+      "status": "OK"
+    }
+  ]
+}

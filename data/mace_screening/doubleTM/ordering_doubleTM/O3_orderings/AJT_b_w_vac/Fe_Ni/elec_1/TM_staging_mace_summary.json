@@ -1,0 +1,34 @@
+{
+  "phase": "O3_orderings",
+  "ordering": "AJT_b_w_vac",
+  "tm_pair": "Fe_Ni",
+  "elec_dir": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/O3_orderings/AJT_b_w_vac/Fe_Ni/elec_1",
+  "n_groups_discovered": 2,
+  "n_groups_evaluated_ok": 2,
+  "model": "/home/ychoi35/project_NaLayered_MLIP/data/mace-omat-0-medium.model",
+  "best_group": "group_0",
+  "best_energy_eV": -242.5842429180224,
+  "best_energy_per_atom_eV": -5.053838394125466,
+  "best_poscar": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/O3_orderings/AJT_b_w_vac/Fe_Ni/elec_1/POSCAR_TMstaging",
+  "runtime_s": 0.1843433380126953,
+  "groups": [
+    {
+      "group": "group_0",
+      "group_dir": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/O3_orderings/AJT_b_w_vac/Fe_Ni/elec_1/TM_staging/group_0",
+      "poscar": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/O3_orderings/AJT_b_w_vac/Fe_Ni/elec_1/TM_staging/group_0/POSCAR",
+      "natoms": 48,
+      "energy_eV": -242.5842429180224,
+      "energy_per_atom_eV": -5.053838394125466,
+      "status": "OK"
+    },
+    {
+      "group": "group_1",
+      "group_dir": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/O3_orderings/AJT_b_w_vac/Fe_Ni/elec_1/TM_staging/group_1",
+      "poscar": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/O3_orderings/AJT_b_w_vac/Fe_Ni/elec_1/TM_staging/group_1/POSCAR",
+      "natoms": 48,
+      "energy_eV": -242.56577704554135,
+      "energy_per_atom_eV": -5.053453688448778,
+      "status": "OK"
+    }
+  ]
+}

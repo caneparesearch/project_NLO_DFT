@@ -1,0 +1,34 @@
+{
+  "phase": "P3_orderings",
+  "ordering": "P3_empty",
+  "tm_pair": "Mn_Ni",
+  "elec_dir": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/P3_orderings/P3_empty/Mn_Ni/elec_1",
+  "n_groups_discovered": 2,
+  "n_groups_evaluated_ok": 2,
+  "model": "/home/ychoi35/project_NaLayered_MLIP/data/mace-omat-0-medium.model",
+  "best_group": "group_0",
+  "best_energy_eV": -206.56372689462572,
+  "best_energy_per_atom_eV": -5.737881302628492,
+  "best_poscar": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/P3_orderings/P3_empty/Mn_Ni/elec_1/POSCAR_TMstaging",
+  "runtime_s": 0.13421964645385742,
+  "groups": [
+    {
+      "group": "group_0",
+      "group_dir": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/P3_orderings/P3_empty/Mn_Ni/elec_1/TM_staging/group_0",
+      "poscar": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/P3_orderings/P3_empty/Mn_Ni/elec_1/TM_staging/group_0/POSCAR",
+      "natoms": 36,
+      "energy_eV": -206.56372689462572,
+      "energy_per_atom_eV": -5.737881302628492,
+      "status": "OK"
+    },
+    {
+      "group": "group_1",
+      "group_dir": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/P3_orderings/P3_empty/Mn_Ni/elec_1/TM_staging/group_1",
+      "poscar": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/P3_orderings/P3_empty/Mn_Ni/elec_1/TM_staging/group_1/POSCAR",
+      "natoms": 36,
+      "energy_eV": -206.55056312709414,
+      "energy_per_atom_eV": -5.7375156424192815,
+      "status": "OK"
+    }
+  ]
+}

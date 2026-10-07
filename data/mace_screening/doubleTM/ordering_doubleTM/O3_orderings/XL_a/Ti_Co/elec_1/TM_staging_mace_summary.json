@@ -1,0 +1,52 @@
+{
+  "phase": "O3_orderings",
+  "ordering": "XL_a",
+  "tm_pair": "Ti_Co",
+  "elec_dir": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/O3_orderings/XL_a/Ti_Co/elec_1",
+  "n_groups_discovered": 4,
+  "n_groups_evaluated_ok": 4,
+  "model": "/home/ychoi35/project_NaLayered_MLIP/data/mace-omat-0-medium.model",
+  "best_group": "group_2",
+  "best_energy_eV": -388.90653684462654,
+  "best_energy_per_atom_eV": -6.705285118010803,
+  "best_poscar": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/O3_orderings/XL_a/Ti_Co/elec_1/POSCAR_TMstaging",
+  "runtime_s": 0.4111289978027344,
+  "groups": [
+    {
+      "group": "group_0",
+      "group_dir": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/O3_orderings/XL_a/Ti_Co/elec_1/TM_staging/group_0",
+      "poscar": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/O3_orderings/XL_a/Ti_Co/elec_1/TM_staging/group_0/POSCAR",
+      "natoms": 58,
+      "energy_eV": -388.8753519394761,
+      "energy_per_atom_eV": -6.7047474472323465,
+      "status": "OK"
+    },
+    {
+      "group": "group_1",
+      "group_dir": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/O3_orderings/XL_a/Ti_Co/elec_1/TM_staging/group_1",
+      "poscar": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/O3_orderings/XL_a/Ti_Co/elec_1/TM_staging/group_1/POSCAR",
+      "natoms": 58,
+      "energy_eV": -388.87335313880715,
+      "energy_per_atom_eV": -6.704712985151847,
+      "status": "OK"
+    },
+    {
+      "group": "group_2",
+      "group_dir": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/O3_orderings/XL_a/Ti_Co/elec_1/TM_staging/group_2",
+      "poscar": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/O3_orderings/XL_a/Ti_Co/elec_1/TM_staging/group_2/POSCAR",
+      "natoms": 58,
+      "energy_eV": -388.90653684462654,
+      "energy_per_atom_eV": -6.705285118010803,
+      "status": "OK"
+    },
+    {
+      "group": "group_3",
+      "group_dir": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/O3_orderings/XL_a/Ti_Co/elec_1/TM_staging/group_3",
+      "poscar": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/O3_orderings/XL_a/Ti_Co/elec_1/TM_staging/group_3/POSCAR",
+      "natoms": 58,
+      "energy_eV": -388.9062824143091,
+      "energy_per_atom_eV": -6.705280731281191,
+      "status": "OK"
+    }
+  ]
+}

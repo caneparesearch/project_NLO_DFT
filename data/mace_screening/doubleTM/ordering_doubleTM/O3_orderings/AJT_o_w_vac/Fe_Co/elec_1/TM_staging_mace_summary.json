@@ -1,0 +1,52 @@
+{
+  "phase": "O3_orderings",
+  "ordering": "AJT_o_w_vac",
+  "tm_pair": "Fe_Co",
+  "elec_dir": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/O3_orderings/AJT_o_w_vac/Fe_Co/elec_1",
+  "n_groups_discovered": 4,
+  "n_groups_evaluated_ok": 4,
+  "model": "/home/ychoi35/project_NaLayered_MLIP/data/mace-omat-0-medium.model",
+  "best_group": "group_2",
+  "best_energy_eV": -263.45333448274926,
+  "best_energy_per_atom_eV": -5.488611135057276,
+  "best_poscar": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/O3_orderings/AJT_o_w_vac/Fe_Co/elec_1/POSCAR_TMstaging",
+  "runtime_s": 0.3697037696838379,
+  "groups": [
+    {
+      "group": "group_0",
+      "group_dir": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/O3_orderings/AJT_o_w_vac/Fe_Co/elec_1/TM_staging/group_0",
+      "poscar": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/O3_orderings/AJT_o_w_vac/Fe_Co/elec_1/TM_staging/group_0/POSCAR",
+      "natoms": 48,
+      "energy_eV": -263.44310230609784,
+      "energy_per_atom_eV": -5.488397964710372,
+      "status": "OK"
+    },
+    {
+      "group": "group_1",
+      "group_dir": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/O3_orderings/AJT_o_w_vac/Fe_Co/elec_1/TM_staging/group_1",
+      "poscar": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/O3_orderings/AJT_o_w_vac/Fe_Co/elec_1/TM_staging/group_1/POSCAR",
+      "natoms": 48,
+      "energy_eV": -263.43296209358573,
+      "energy_per_atom_eV": -5.488186710283036,
+      "status": "OK"
+    },
+    {
+      "group": "group_2",
+      "group_dir": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/O3_orderings/AJT_o_w_vac/Fe_Co/elec_1/TM_staging/group_2",
+      "poscar": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/O3_orderings/AJT_o_w_vac/Fe_Co/elec_1/TM_staging/group_2/POSCAR",
+      "natoms": 48,
+      "energy_eV": -263.45333448274926,
+      "energy_per_atom_eV": -5.488611135057276,
+      "status": "OK"
+    },
+    {
+      "group": "group_3",
+      "group_dir": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/O3_orderings/AJT_o_w_vac/Fe_Co/elec_1/TM_staging/group_3",
+      "poscar": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/O3_orderings/AJT_o_w_vac/Fe_Co/elec_1/TM_staging/group_3/POSCAR",
+      "natoms": 48,
+      "energy_eV": -263.4330309693909,
+      "energy_per_atom_eV": -5.488188145195644,
+      "status": "OK"
+    }
+  ]
+}

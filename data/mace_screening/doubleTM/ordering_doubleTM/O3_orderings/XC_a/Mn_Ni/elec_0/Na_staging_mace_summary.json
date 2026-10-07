@@ -1,0 +1,25 @@
+{
+  "phase": "O3_orderings",
+  "ordering": "XC_a",
+  "tm_pair": "Mn_Ni",
+  "elec_dir": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/O3_orderings/XC_a/Mn_Ni/elec_0",
+  "n_trans_discovered": 1,
+  "n_trans_evaluated_ok": 1,
+  "model": "/home/ychoi35/project_NaLayered_MLIP/data/mace-omat-0-medium.model",
+  "best_trans": "trans_0",
+  "best_energy_eV": -341.40340653556905,
+  "best_energy_per_atom_eV": -5.690056775592818,
+  "best_poscar": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/O3_orderings/XC_a/Mn_Ni/elec_0/POSCAR_lowestEconfig.vasp",
+  "runtime_s": 0.10489296913146973,
+  "trans": [
+    {
+      "trans": "trans_0",
+      "trans_dir": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/O3_orderings/XC_a/Mn_Ni/elec_0/Na_staging/trans_0",
+      "poscar": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/O3_orderings/XC_a/Mn_Ni/elec_0/Na_staging/trans_0/POSCAR",
+      "natoms": 60,
+      "energy_eV": -341.40340653556905,
+      "energy_per_atom_eV": -5.690056775592818,
+      "status": "OK"
+    }
+  ]
+}

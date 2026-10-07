@@ -1,0 +1,49 @@
+
+#======================================================================
+# CRYSTAL DATA
+#----------------------------------------------------------------------
+data_VESTA_phase_1
+
+_chemical_name_common                  ''
+_cell_length_a                         5.744659
+_cell_length_b                         8.589143
+_cell_length_c                         4.971532
+_cell_angle_alpha                      90.000000
+_cell_angle_beta                       105.913200
+_cell_angle_gamma                      90.000000
+_cell_volume                           235.903322
+_space_group_name_H-M_alt              'P 21/c'
+_space_group_IT_number                 14
+
+loop_
+_space_group_symop_operation_xyz
+   'x, y, z'
+   '-x, -y, -z'
+   '-x, y+1/2, -z+1/2'
+   'x, -y+1/2, z+1/2'
+
+loop_
+   _atom_site_label
+   _atom_site_occupancy
+   _atom_site_fract_x
+   _atom_site_fract_y
+   _atom_site_fract_z
+   _atom_site_adp_type
+   _atom_site_B_iso_or_equiv
+   _atom_site_type_symbol
+   Ni1_1      1.0     0.000000     0.000000     0.000000    Biso  0.886280 Ni
+   Ni1_2      1.0    -0.007970    -1.663590     2.001380    Biso  1.155020 Ni
+   Na1_3      1.0     0.490330     0.669180     0.792190    Biso  3.505910 Na
+   O1_1       1.0     0.789890    -0.505890     1.085940    Biso  0.498020 O
+   O1_2       1.0    -0.813520    -0.674690     1.373240    Bani  1.147103 O
+   O1_3       1.0     2.845950     1.165650     3.107810    Biso  0.780360 O
+
+loop_
+   _atom_site_aniso_label
+   _atom_site_aniso_U_11
+   _atom_site_aniso_U_22
+   _atom_site_aniso_U_33
+   _atom_site_aniso_U_12
+   _atom_site_aniso_U_13
+   _atom_site_aniso_U_23
+   O1_2	 0.01709  0.01119  0.00749 -0.01208 -0.00981  0.00746

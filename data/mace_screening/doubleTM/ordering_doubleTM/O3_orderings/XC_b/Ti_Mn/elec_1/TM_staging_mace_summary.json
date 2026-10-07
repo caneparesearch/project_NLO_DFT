@@ -1,0 +1,88 @@
+{
+  "phase": "O3_orderings",
+  "ordering": "XC_b",
+  "tm_pair": "Ti_Mn",
+  "elec_dir": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/O3_orderings/XC_b/Ti_Mn/elec_1",
+  "n_groups_discovered": 8,
+  "n_groups_evaluated_ok": 8,
+  "model": "/home/ychoi35/project_NaLayered_MLIP/data/mace-omat-0-medium.model",
+  "best_group": "group_3",
+  "best_energy_eV": -303.0777060721739,
+  "best_energy_per_atom_eV": -7.216135858861283,
+  "best_poscar": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/O3_orderings/XC_b/Ti_Mn/elec_1/POSCAR_TMstaging",
+  "runtime_s": 0.632988691329956,
+  "groups": [
+    {
+      "group": "group_0",
+      "group_dir": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/O3_orderings/XC_b/Ti_Mn/elec_1/TM_staging/group_0",
+      "poscar": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/O3_orderings/XC_b/Ti_Mn/elec_1/TM_staging/group_0/POSCAR",
+      "natoms": 42,
+      "energy_eV": -302.748914118293,
+      "energy_per_atom_eV": -7.208307479006976,
+      "status": "OK"
+    },
+    {
+      "group": "group_1",
+      "group_dir": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/O3_orderings/XC_b/Ti_Mn/elec_1/TM_staging/group_1",
+      "poscar": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/O3_orderings/XC_b/Ti_Mn/elec_1/TM_staging/group_1/POSCAR",
+      "natoms": 42,
+      "energy_eV": -302.90976884357895,
+      "energy_per_atom_eV": -7.212137353418546,
+      "status": "OK"
+    },
+    {
+      "group": "group_2",
+      "group_dir": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/O3_orderings/XC_b/Ti_Mn/elec_1/TM_staging/group_2",
+      "poscar": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/O3_orderings/XC_b/Ti_Mn/elec_1/TM_staging/group_2/POSCAR",
+      "natoms": 42,
+      "energy_eV": -302.91452802632904,
+      "energy_per_atom_eV": -7.2122506672935485,
+      "status": "OK"
+    },
+    {
+      "group": "group_3",
+      "group_dir": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/O3_orderings/XC_b/Ti_Mn/elec_1/TM_staging/group_3",
+      "poscar": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/O3_orderings/XC_b/Ti_Mn/elec_1/TM_staging/group_3/POSCAR",
+      "natoms": 42,
+      "energy_eV": -303.0777060721739,
+      "energy_per_atom_eV": -7.216135858861283,
+      "status": "OK"
+    },
+    {
+      "group": "group_4",
+      "group_dir": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/O3_orderings/XC_b/Ti_Mn/elec_1/TM_staging/group_4",
+      "poscar": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/O3_orderings/XC_b/Ti_Mn/elec_1/TM_staging/group_4/POSCAR",
+      "natoms": 42,
+      "energy_eV": -303.0724526709993,
+      "energy_per_atom_eV": -7.216010777880936,
+      "status": "OK"
+    },
+    {
+      "group": "group_5",
+      "group_dir": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/O3_orderings/XC_b/Ti_Mn/elec_1/TM_staging/group_5",
+      "poscar": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/O3_orderings/XC_b/Ti_Mn/elec_1/TM_staging/group_5/POSCAR",
+      "natoms": 42,
+      "energy_eV": -302.7532514999247,
+      "energy_per_atom_eV": -7.208410749998207,
+      "status": "OK"
+    },
+    {
+      "group": "group_6",
+      "group_dir": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/O3_orderings/XC_b/Ti_Mn/elec_1/TM_staging/group_6",
+      "poscar": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/O3_orderings/XC_b/Ti_Mn/elec_1/TM_staging/group_6/POSCAR",
+      "natoms": 42,
+      "energy_eV": -302.90935731896474,
+      "energy_per_atom_eV": -7.2121275552134465,
+      "status": "OK"
+    },
+    {
+      "group": "group_7",
+      "group_dir": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/O3_orderings/XC_b/Ti_Mn/elec_1/TM_staging/group_7",
+      "poscar": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/O3_orderings/XC_b/Ti_Mn/elec_1/TM_staging/group_7/POSCAR",
+      "natoms": 42,
+      "energy_eV": -303.0725363075176,
+      "energy_per_atom_eV": -7.2160127692266105,
+      "status": "OK"
+    }
+  ]
+}

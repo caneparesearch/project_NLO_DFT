@@ -1,0 +1,41 @@
+
+#======================================================================
+# CRYSTAL DATA
+#----------------------------------------------------------------------
+data_VESTA_phase_1
+
+_chemical_name_common                  'New structure'
+_cell_length_a                         4.962100
+_cell_length_b                         5.948500
+_cell_length_c                         5.808800
+_cell_angle_alpha                      90.000000
+_cell_angle_beta                       104.485001
+_cell_angle_gamma                      90.000000
+_cell_volume                           166.008533
+_space_group_name_H-M_alt              'P 2/m'
+_space_group_IT_number                 10
+
+loop_
+_space_group_symop_operation_xyz
+   'x, y, z'
+   '-x, -y, -z'
+   '-x, y, -z'
+   'x, -y, z'
+
+loop_
+   _atom_site_label
+   _atom_site_occupancy
+   _atom_site_fract_x
+   _atom_site_fract_y
+   _atom_site_fract_z
+   _atom_site_adp_type
+   _atom_site_B_iso_or_equiv
+   _atom_site_type_symbol
+   Mn1        1.0     0.000000     0.000000     0.500000    Biso  5.156900 Mn
+   Mn2        1.0     0.500000     0.738700     0.500000    Biso  4.951100 Mn
+   Mn3        1.0     0.000000     0.500000     0.500000    Biso  4.441300 Mn
+   O1         1.0     0.195300     0.729800     0.677000    Biso  4.252500 O
+   O2         1.0     0.723500     0.500000     0.665200    Biso  2.708900 O
+   O3         1.0     0.698700     0.000000     0.642100    Biso  3.369800 O
+   Na1        1.0     0.500000     0.500000     0.000000    Biso  ? Na
+   Na2        1.0     0.000000     0.000000     0.000000    Biso 17.958599 Na

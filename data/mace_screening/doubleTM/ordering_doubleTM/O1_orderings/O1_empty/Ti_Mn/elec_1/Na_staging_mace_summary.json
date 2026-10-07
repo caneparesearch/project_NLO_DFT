@@ -1,0 +1,25 @@
+{
+  "phase": "O1_orderings",
+  "ordering": "O1_empty",
+  "tm_pair": "Ti_Mn",
+  "elec_dir": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/O1_orderings/O1_empty/Ti_Mn/elec_1",
+  "n_trans_discovered": 1,
+  "n_trans_evaluated_ok": 1,
+  "model": "/home/ychoi35/project_NaLayered_MLIP/data/mace-omat-0-medium.model",
+  "best_trans": "trans_0",
+  "best_energy_eV": -282.3673427913451,
+  "best_energy_per_atom_eV": -7.843537299759586,
+  "best_poscar": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/O1_orderings/O1_empty/Ti_Mn/elec_1/POSCAR_lowestEconfig.vasp",
+  "runtime_s": 0.06581425666809082,
+  "trans": [
+    {
+      "trans": "trans_0",
+      "trans_dir": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/O1_orderings/O1_empty/Ti_Mn/elec_1/Na_staging/trans_0",
+      "poscar": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/O1_orderings/O1_empty/Ti_Mn/elec_1/Na_staging/trans_0/POSCAR",
+      "natoms": 36,
+      "energy_eV": -282.3673427913451,
+      "energy_per_atom_eV": -7.843537299759586,
+      "status": "OK"
+    }
+  ]
+}

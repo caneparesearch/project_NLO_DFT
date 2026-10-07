@@ -1,0 +1,25 @@
+{
+  "phase": "P3_orderings",
+  "ordering": "P3_full",
+  "tm_pair": "Ti_Fe",
+  "elec_dir": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/P3_orderings/P3_full/Ti_Fe/elec_0",
+  "n_trans_discovered": 1,
+  "n_trans_evaluated_ok": 1,
+  "model": "/home/ychoi35/project_NaLayered_MLIP/data/mace-omat-0-medium.model",
+  "best_trans": "trans_0",
+  "best_energy_eV": -305.9625003394716,
+  "best_energy_per_atom_eV": -6.374218757072325,
+  "best_poscar": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/P3_orderings/P3_full/Ti_Fe/elec_0/POSCAR_lowestEconfig.vasp",
+  "runtime_s": 0.09236359596252441,
+  "trans": [
+    {
+      "trans": "trans_0",
+      "trans_dir": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/P3_orderings/P3_full/Ti_Fe/elec_0/Na_staging/trans_0",
+      "poscar": "/home/ychoi35/project_NaLayered_MLIP/ordering_doubleTM/P3_orderings/P3_full/Ti_Fe/elec_0/Na_staging/trans_0/POSCAR",
+      "natoms": 48,
+      "energy_eV": -305.9625003394716,
+      "energy_per_atom_eV": -6.374218757072325,
+      "status": "OK"
+    }
+  ]
+}
