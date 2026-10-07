@@ -5,7 +5,7 @@ Code, DFT datasets, and Na/vacancy ordering library behind the manuscript
 > *Decoding Composition–Structure–Performance Relations in Sodium Layered Oxide Positive Electrode Materials*
 
 Everything needed to regenerate every figure and number in the paper from the tabulated DFT
-results is here. Raw VASP outputs (≈140 GB) are not included; the relaxed structures, energies,
+results is here. Raw VASP outputs (≈1.5 TB) are not included; the relaxed structures, energies,
 magnetic moments, and derived quantities are tabulated in `data/`.
 
 This repository is the essential subset split out of a larger working repository
